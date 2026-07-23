@@ -4,8 +4,8 @@
 
 ## 📑 Mục lục
 
-- [Giới thiệu](#-sorting-algorithm)
-- [Video demo](#-video-demo)
+- [Giới thiệu](#sorting-algorithm)
+- [Video demo](#video-demo)
 <!-- - [Danh sách thuật toán](#-danh-sách-thuật-toán) -->
   - [Bubble Sort](#bubble-sort)
   - [Selection Sort](#selection-sort)
@@ -22,8 +22,8 @@
   - [Flash Sort](#flash-sort)
   - [Tim Sort](#tim-sort)
   - [Intro Sort](#intro-sort)
-- [Cách cài đặt](#-cach-cai-dat)
-- [Tác giả](#-tac-gia)
+- [Cách cài đặt](#cach-cai-dat)
+- [Tác giả](#tac-gia)
 
 ## Sorting Algorithm
 
