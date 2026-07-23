@@ -7,13 +7,11 @@
 
 Đây là một dự án nhỏ dùng để đo thời gian thực thi của 15 thuật toán sắp xếp phổ biến trong C++, đồng thời cũng là những thuật toán được sử dụng rộng rãi trong nhiều ngôn ngữ lập trình khác. Dự án hướng đến những người mới học lập trình, giúp họ có cái nhìn tổng quan và dễ dàng tiếp cận các thuật toán sắp xếp thông qua việc so sánh hiệu năng thực tế.
 
-## Video demo
-
 ![demo](docs/demo.gif)
 
 ---
 
-## Danh sách thuật toán
+## Danh sách 15 thuật toán sắp xếp
 
 | STT | Thuật toán | Tính ổn định |
 |:---:|------------|:------------:|
