@@ -12,7 +12,7 @@
                                                                                         
 // MIT LICENSE 2026        
 
-#include "include.hpp"
+#include "include.h"
 
 int main(){
     vector<int> a(RANDOM_SIZE);
